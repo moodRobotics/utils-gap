@@ -1,0 +1,28 @@
+{
+  "name": "utils-gap",
+  "version": "1.0.0",
+  "description": "Javascript utils for RAPID development and GAP compatible",
+  "main": "utils.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moodRobotics/utils-gap.git"
+  },
+  "keywords": [
+    "utils",
+    "gap",
+    "whatsapp"
+  ],
+  "author": " (c)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moodRobotics/utils-gap/issues"
+  },
+  "homepage": "https://github.com/moodRobotics/utils-gap#readme",
+  "dependencies": {
+    "querystring": "^0.2.1",
+    "tor-request": "^3.1.0"
+  }
+}
