@@ -1,6 +1,6 @@
 {
   "name": "utils-gap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Javascript utils for RAPID development and GAP compatible",
   "main": "utils.js",
   "scripts": {
